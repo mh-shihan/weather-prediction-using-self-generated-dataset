@@ -1,0 +1,11 @@
+**MAKE CV**
+INCREASE ACCURACY up to 90%
+
+*add learning rate*
+feature engineering
+feature selection
+*train test validation split 70 15 15*
+
+
+INCREASE FUNCTIONALITY
+add loop to input test data
